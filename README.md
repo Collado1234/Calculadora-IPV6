@@ -2,15 +2,15 @@
  CALCULADORA DE ENDEREÇOS IPv6 – PYTHON 3.10.x
 ==============================================
 
-Autor: [Seu Nome]
-Disciplina: Redes de Computadores
+Autor: Rennan Furlaneto Collado
+Disciplina: Redes de Computadores I
 Trabalho: IPv6 - Abreviação, Geração Aleatória e Formatação com Prefixo
-Data: [Coloque a data de entrega]
+Data: 26/06/2025
 
 ----------------------------------------------
 1. REQUISITOS DO SISTEMA
 ----------------------------------------------
-- Python versão 3.10.x
+- Python versão 3.13.1
 - Nenhuma biblioteca externa é utilizada
 - Código dividido em dois arquivos principais:
     - ipv6.py → implementação da classe IPv6
@@ -52,7 +52,7 @@ Script com a função principal (`main()`) que apresenta um menu interativo com 
 3. COMO EXECUTAR O PROGRAMA
 ----------------------------------------------
 
-1. Certifique-se de ter o Python 3.10.x instalado.
+1. Certifique-se de ter o Python 3.10.x instalado ao menos.
 
 2. Salve os arquivos `ipv6.py` e `main.py` na mesma pasta.
 
